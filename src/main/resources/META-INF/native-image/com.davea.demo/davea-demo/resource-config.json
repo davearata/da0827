@@ -1,0 +1,10 @@
+{
+    "resources":{
+        "includes":[
+            {"pattern":".*/logging.properties$"},
+            {"pattern":".*/log4j.properties$"},
+            {"pattern":".*/log4j2.properties$"},
+            {"pattern":".*/log4j2.xml$"}
+        ]
+    }
+}
